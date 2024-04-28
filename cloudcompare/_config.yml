@@ -22,7 +22,7 @@ title: CloudCompare
 email: admin@cloudcompare.org
 description: >- # this means to ignore newlines until "baseurl:"
   CloudCompare is a 3D point-cloud and mesh processing software.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cloudcompare" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CloudCompareGPL
 github_username:  CloudCompare
